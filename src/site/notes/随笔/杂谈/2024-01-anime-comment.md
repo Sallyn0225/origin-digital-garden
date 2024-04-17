@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/随笔/杂谈/2024-01-anime-comment/","title":"2024年1月新番后评","tags":["动漫","repo"],"created":"2024-04-07 15:00"}
+{"dg-publish":true,"permalink":"/随笔/杂谈/2024-01-anime-comment/","title":"2024年1月新番后评","tags":["动漫","repo"],"created":"2024-04-07 15:00","updated":"2024-04-17 21:25"}
 ---
 
 
