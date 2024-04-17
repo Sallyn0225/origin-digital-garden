@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/实用/girls-band-cry-ep1-places/","title":"GBC第一话 圣地考究（非完整版）","tags":["动漫"],"created":"2024-04-06 12:15","updated":"2024-04-17 21:25"}
+{"dg-publish":true,"permalink":"/实用/girls-band-cry-ep1-places/","title":"GBC第一话 圣地考究（非完整版）","tags":["动漫"],"created":"2024-04-06 12:15"}
 ---
 
 
