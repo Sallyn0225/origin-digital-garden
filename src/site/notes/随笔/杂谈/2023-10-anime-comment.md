@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/随笔/杂谈/2023-10-anime-comment/","title":"2023年10月新番后评","tags":["动漫","repo"],"created":"2023-12-24 13:25"}
+{"dg-publish":true,"permalink":"/随笔/杂谈/2023-10-anime-comment/","title":"2023年10月新番后评","tags":["动漫","repo"],"created":"2023-12-24 13:25","updated":"2024-04-17 21:25"}
 ---
 
 
