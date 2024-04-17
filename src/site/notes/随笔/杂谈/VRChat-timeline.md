@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/随笔/杂谈/VRChat-timeline/","title":"玩了一年VRChat的小记","tags":["游戏","VRChat"],"created":"2023-12-28 16:50","updated":"2024-04-17 21:25"}
+{"dg-publish":true,"permalink":"/随笔/杂谈/VRChat-timeline/","title":"玩了一年VRChat的小记","tags":["游戏","VRChat"],"created":"2023-12-28 16:50"}
 ---
 
 
