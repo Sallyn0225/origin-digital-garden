@@ -1,0 +1,12 @@
+---
+{"dg-publish":true,"permalink":"/home/","title":"咲凌的秘密仓库","tags":["gardenEntry"],"created":"2024-04-17 21:04"}
+---
+
+
+## 😳你好，但是...?
+
+你好，我是咲凌。
+
+我不知道你是怎么找到这个地方的？因为理论上来说，我这个时候应该还在用我的 [hugo+netlify+obsidian的博客](https://sallyn.site/) 流程进行文章的撰写。这个博客大概率会被我在无意中遗忘。
+
+但是你既然来了，那么就帮我看看这个利用 digital garden 插件搭建的知识库的效果吧。
