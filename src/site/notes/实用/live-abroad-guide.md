@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/实用/live-abroad-guide/","title":"【攻略向/长文】如何从零开始跑一次现地live","tags":["旅行","演唱会","生活"],"created":"2023-12-25 20:00"}
+{"dg-publish":true,"permalink":"/实用/live-abroad-guide/","title":"【攻略向/长文】如何从零开始跑一次现地live","tags":["旅行","演唱会","生活"],"created":"2023-12-25 20:00","updated":"2024-04-17 21:25"}
 ---
 
 
