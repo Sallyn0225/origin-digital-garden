@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/随笔/杂谈/repo-to-hibi-live/","title":"观黑柿子mini live「日々」有感","tags":["演唱会","repo"],"created":"2023-12-24 19:30","updated":"2024-04-17 21:25"}
+{"dg-publish":true,"permalink":"/随笔/杂谈/repo-to-hibi-live/","title":"观黑柿子mini live「日々」有感","tags":["演唱会","repo"],"created":"2023-12-24 19:30"}
 ---
 
 
